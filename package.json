@@ -1,0 +1,15 @@
+{
+  "name": "00aex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "nick",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
